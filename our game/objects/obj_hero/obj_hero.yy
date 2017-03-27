@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_hero",
     "eventList": [
-        
+        {
+            "id": "8696217c-67ec-4d07-a06d-9b53cf9d9731",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "50cec732-f17e-4ab9-93af-bfe900f83a6d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
