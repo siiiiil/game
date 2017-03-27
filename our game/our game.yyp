@@ -82,7 +82,7 @@
             "Key": "7cc59cb5-dbc3-478f-baad-fc5503243a89",
             "Value": {
                 "id": "8228fb37-84d3-4262-91f9-8273c7e88e0e",
-                "resourcePath": "sprites\\hero_std1\\hero_std1.yy",
+                "resourcePath": "sprites\\spr_hero_std\\spr_hero_std.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "dd6efc3c-8564-447e-b653-4e16ab3afd9c",
             "Value": {
                 "id": "a0dec0b7-7c45-4afb-a4bc-2688f3f6c31f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_test\\rm_test.yy",
                 "resourceType": "GMRoom"
             }
         },
