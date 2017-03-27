@@ -1,4 +1,4 @@
-
+{
 if keyboard_check(ord("A"))
 {
 	x += -8;
@@ -14,4 +14,5 @@ if keyboard_check(ord("W"))
 if keyboard_check(ord("S"))
 {
 	y += 8;
+}
 }
