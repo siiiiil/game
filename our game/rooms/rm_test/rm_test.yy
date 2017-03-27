@@ -60,14 +60,14 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 15,
+            "animationFPS": 10,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "7cc59cb5-dbc3-478f-baad-fc5503243a89",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
