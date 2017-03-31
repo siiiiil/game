@@ -9,7 +9,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "97eb5b34-ceb3-4164-bef5-44cdd1864386"
+        "97eb5b34-ceb3-4164-bef5-44cdd1864386",
+        "802fb2a7-1caf-4261-9356-c4063bad4ce3"
     ],
     "layers": [
         {
@@ -55,6 +56,30 @@
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_58D086B6",
                     "objId": "50cec732-f17e-4ab9-93af-bfe900f83a6d",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "802fb2a7-1caf-4261-9356-c4063bad4ce3",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_2F4ADE00",
+                    "x": 448,
+                    "y": 800,
+                    "IsDnD": true,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_2F4ADE00",
+                    "objId": "98432587-51f5-4dc4-92ba-d5894e1cd75f",
                     "rotation": 0,
                     "scaleX": 1,
                     "scaleY": 1
@@ -104,9 +129,9 @@
         "id": "4cba2db8-94c1-4f2f-bf0c-a59856443735",
         "modelName": "GMRoomPhysicsSettings",
         "mvc": "1.0",
-        "PhysicsWorld": false,
+        "PhysicsWorld": true,
         "PhysicsWorldGravityX": 0,
-        "PhysicsWorldGravityY": 10,
+        "PhysicsWorldGravityY": 0,
         "PhysicsWorldPixToMeters": 0.1,
         "inheritPhysicsSettings": false
     },
