@@ -45,14 +45,14 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_58D086B6",
-                    "x": 256,
-                    "y": 288,
+                    "x": 32,
+                    "y": 256,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
                     },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
+                    "creationCodeFile": "InstanceCreationCode_inst_58D086B6.gml",
+                    "creationCodeType": ".gml",
                     "inheritCode": false,
                     "name_with_no_file_rename": "inst_58D086B6",
                     "objId": "50cec732-f17e-4ab9-93af-bfe900f83a6d",
