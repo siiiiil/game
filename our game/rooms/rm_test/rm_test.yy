@@ -296,8 +296,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3FBBA57D",
-                    "x": 640,
-                    "y": 480,
+                    "x": 969,
+                    "y": 466,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -320,8 +320,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_1DA18BCE",
-                    "x": 704,
-                    "y": 96,
+                    "x": 681,
+                    "y": 82,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -425,7 +425,7 @@
         "mvc": "1.0",
         "clearDisplayBuffer": true,
         "clearViewBackground": false,
-        "enableViews": false,
+        "enableViews": true,
         "inheritViewSettings": false
     },
     "views": [
@@ -433,15 +433,15 @@
             "id": "73c25c4c-a81f-48db-843e-88ff65124b77",
             "modelName": "GMRView",
             "mvc": "1.0",
-            "hborder": 32,
+            "hborder": 500,
             "hport": 768,
-            "hspeed": -1,
+            "hspeed": 7,
             "hview": 768,
             "inherit": false,
-            "objId": "00000000-0000-0000-0000-000000000000",
-            "vborder": 32,
-            "visible": false,
-            "vspeed": -1,
+            "objId": "50cec732-f17e-4ab9-93af-bfe900f83a6d",
+            "vborder": 360,
+            "visible": true,
+            "vspeed": 7,
             "wport": 1024,
             "wview": 1024,
             "xport": 0,
