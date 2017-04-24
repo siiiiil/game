@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0b73f306-ae4b-4288-893d-f696c5508716",
+            "Value": {
+                "id": "24677c4f-ef76-417d-ad35-39ce96a9688b",
+                "resourcePath": "sprites\\spr_enemy2_std\\spr_enemy2_std.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f996178-d16c-4f39-8016-37cfd717a50a",
             "Value": {
                 "id": "3736e48e-106c-462e-b5a2-1e03cfadab4f",
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "63addc6d-5e8c-48e9-b01f-a48207a622c8",
                 "resourcePath": "views\\30a4b6c8-5f90-46e4-9196-ee332cc99783.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "346cff0d-9d91-4880-8aeb-d6d718f2d1ec",
+            "Value": {
+                "id": "6426dc8e-0f71-4b09-b537-17eea75bc11d",
+                "resourcePath": "views\\346cff0d-9d91-4880-8aeb-d6d718f2d1ec.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -196,6 +212,14 @@
                 "id": "9ad2f4b8-d974-488f-b090-0a285ca466c6",
                 "resourcePath": "sprites\\spr_grass2\\spr_grass2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6d15581a-fcfb-4b73-8d34-7d0d1dfa852f",
+            "Value": {
+                "id": "dc44baaf-cd00-45b8-ab24-005c5db5dc55",
+                "resourcePath": "objects\\enemy2\\enemy2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -314,7 +338,7 @@
             "Key": "b6190179-67ef-4035-8e74-2f061a3adc01",
             "Value": {
                 "id": "e57ea244-58fe-4df3-88a2-d44e00c17cf6",
-                "resourcePath": "objects\\object_9\\object_9.yy",
+                "resourcePath": "objects\\enemy1\\enemy1.yy",
                 "resourceType": "GMObject"
             }
         },
