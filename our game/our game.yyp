@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "6d2a6fd1-d53b-4df1-accf-a41da4865e68",
+            "Value": {
+                "id": "38d80180-a892-414f-af81-413dc500e684",
+                "resourcePath": "sprites\\spr_hero_attack\\spr_hero_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "739ac68b-ef6c-47ef-b0ae-058a989b6ecb",
             "Value": {
                 "id": "4259228f-6236-4b96-a325-525dbb9803ff",
