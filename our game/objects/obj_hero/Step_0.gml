@@ -62,6 +62,7 @@ else if keyboard_check(ord("S"))
 {
     //sprite_index=;
 	phy_position_y += 8;
+	sprite_index=spr_hero_std;
 	 m_playerDirection = PlayerDirection.DOWN;
 }
 
