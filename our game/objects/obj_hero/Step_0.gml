@@ -7,7 +7,8 @@ enum PlayerDirection{
 m_playerDirection = PlayerDirection.DOWN;
 image_speed=1.25;//动画播放速度
 depth=-y;//即深度值越小，离相机的距离越近
-
+if(m_isAttacking == false)
+{
 if keyboard_check(ord("A"))
 {
 	phy_position_x += -8;//phy_position_x在打开room physics时使用
@@ -67,7 +68,7 @@ else if keyboard_check(ord("S"))
 else if keyboard_check(ord("J"))
 {
 	//sprite_index=;
-
+m_isAttacking = true;
   switch(m_playerDirection)
   {
   case PlayerDirection.UP:
@@ -88,4 +89,5 @@ else if keyboard_check(ord("J"))
 else 
 {
 sprite_index=spr_hero_std;
+}
 }
