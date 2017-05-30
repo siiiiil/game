@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "10b707d9-a81c-4ac7-8fff-83f5a16acc8c",
+            "Value": {
+                "id": "ca28561e-090b-4565-98ed-687ed3f40160",
+                "resourcePath": "sprites\\spr_attackaffect\\spr_attackaffect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1ebe9017-a356-41f7-9efc-8aea578389e8",
             "Value": {
                 "id": "e18619d1-a724-4436-9406-14fcb31e3330",
